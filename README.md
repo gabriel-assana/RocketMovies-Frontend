@@ -1,6 +1,6 @@
 # :movie_camera: Rocketmovies Frontend
 
-Esse projeto é a parte visual de uma aplicação para guardar, mostrar, editar e deletar filmes de um banco de dados.
+Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, editar e deletar filmes de um banco de dados em Sqlite.
 
 <h1 align="center">
     <img src="./src/assets/cover.jpg" alt="Capa do projeto">

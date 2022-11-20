@@ -33,7 +33,7 @@ Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, edit
 
 - O projeto **está finalizado**, mas poderá ter melhorias no futuro.
 
-- Você pode testar a aplicação [clicando aqui!](https://rocketmovies2022.netlify.app/)
+- Você pode testar a aplicação [clicando aqui!](https://rocketmovies29.netlify.app/)
 
 - Você também pode clonar o repositório, e executar a aplicação localmente.
 

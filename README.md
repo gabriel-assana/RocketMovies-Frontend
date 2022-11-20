@@ -75,7 +75,7 @@ Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://w
 - Comece clonando o projeto:
 
 ```bash
-  $ git clone https://github.com/devgustavosantos/rocketmovies-frontend.git
+  $ git clone https://github.com/gabriel-assana/RocketMovies-Frontend.git
 ```
 
 - Entre no diretório:

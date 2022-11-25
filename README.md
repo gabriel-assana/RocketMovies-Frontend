@@ -17,6 +17,7 @@ Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, edit
 
 </br>
 
+
 ## :clapper: Pré-Visualização
 
 <h1 align="center">

@@ -58,6 +58,7 @@ Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://w
 
 </br>
 
+
 ## :hammer: Funcionalidades
 
 - [x] Login;

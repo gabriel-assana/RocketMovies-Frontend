@@ -42,7 +42,7 @@ Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, edit
 
 ## :memo: Sobre
 
-Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://www.rocketseat.com.br/explorer), os [detalhes estão aqui](https://efficient-sloth-d85.notion.site/Front-end-da-aplica-o-30a5132b30534255b238a8aa1b48c963), essa aplicação é o frontend de um sistema que faz o cadastro de usuários, e permite que esses usuários cadastrem, visualizem, editem e excluam anotações de filmes em uma [API RESTful.](https://github.com/devgustavosantos/rocketmovies-backend)
+Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://www.rocketseat.com.br/explorer), os [detalhes estão aqui](https://efficient-sloth-d85.notion.site/Front-end-da-aplica-o-30a5132b30534255b238a8aa1b48c963), essa aplicação é o frontend de um sistema que faz o cadastro de usuários, e permite que esses usuários cadastrem, visualizem, editem e excluam anotações de filmes em uma [API RESTful.](https://github.com/gabriel-assana/RocketMovies-Backend)
 
 </br>
 
@@ -112,10 +112,3 @@ Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://w
 ---
 
 _Esses são os recursos disponíveis nessa Aplicação, se algum recurso não funcionar como o esperado, verifique essa documentação e tente novamente._
-
-_Caso persista, por favor,entre em contato com [devgustavosantos@outlook.com](mailto:devgustavosantos@outlook.com)._
-
-## :nerd_face: Autor
-
-Feito com :heart: por Dev Gustavo Santos :grinning: Veja meu [LinkedIn.](https://www.linkedin.com/in/devgustavosantos/)
-  

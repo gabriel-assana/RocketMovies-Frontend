@@ -25,7 +25,7 @@ Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, edit
 </h1>
 
 <h1 align="center">
-    <img src="./src/assets/.gif" alt="gif da versão desktop">
+    <img src="./src/assets/preview-desktop.gif" alt="gif da versão desktop">
 </h1>
 
 </br>

@@ -1,11 +1,11 @@
 # :movie_camera: Rocketmovies Frontend
 
-Esse projeto é a parte visual de uma aplicação para guardar, mostrar, editar e deletar filmes de um banco de dados.
+Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, editar e deletar filmes de um banco de dados em Sqlite.
 
 <h1 align="center">
     <img src="./src/assets/cover.jpg" alt="Capa do projeto">
 </h1>
-
+ 
 ## :open_book: Sumário
 
 - [Pré-Visualização](#clapper-pré-visualização)
@@ -16,6 +16,7 @@ Esse projeto é a parte visual de uma aplicação para guardar, mostrar, editar 
 - [Autor](#nerd_face-autor)
 
 </br>
+
 
 ## :clapper: Pré-Visualização
 
@@ -33,7 +34,7 @@ Esse projeto é a parte visual de uma aplicação para guardar, mostrar, editar 
 
 - O projeto **está finalizado**, mas poderá ter melhorias no futuro.
 
-- Você pode testar a aplicação [clicando aqui!](https://rocketmovies2022.netlify.app/)
+- Você pode testar a aplicação [clicando aqui!](https://rocketmovies29.netlify.app/)
 
 - Você também pode clonar o repositório, e executar a aplicação localmente.
 
@@ -57,6 +58,7 @@ Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://w
 
 </br>
 
+
 ## :hammer: Funcionalidades
 
 - [x] Login;
@@ -75,7 +77,7 @@ Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://w
 - Comece clonando o projeto:
 
 ```bash
-  $ git clone https://github.com/devgustavosantos/rocketmovies-frontend.git
+  $ git clone https://github.com/gabriel-assana/RocketMovies-Frontend.git
 ```
 
 - Entre no diretório:
@@ -116,3 +118,4 @@ _Caso persista, por favor,entre em contato com [devgustavosantos@outlook.com](ma
 ## :nerd_face: Autor
 
 Feito com :heart: por Dev Gustavo Santos :grinning: Veja meu [LinkedIn.](https://www.linkedin.com/in/devgustavosantos/)
+  

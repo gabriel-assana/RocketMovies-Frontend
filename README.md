@@ -13,7 +13,7 @@ Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, edit
 - [Sobre](#memo-sobre)
 - [Tecnologias](#floppy_disk-tecnologias)
 - [Funcionalidades](#hammer-funcionalidades)
-- [Autor](#nerd_face-autor)
+- [Autor](#nerd_face-autor) 
 
 </br>
 

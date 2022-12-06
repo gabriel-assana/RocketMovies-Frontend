@@ -15,8 +15,7 @@ Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, edit
 - [Funcionalidades](#hammer-funcionalidades)
 - [Autor](#nerd_face-autor) 
 
-</br>
-
+</br> 
 
 ## :clapper: Pré-Visualização
 

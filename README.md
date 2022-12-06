@@ -6,7 +6,7 @@ Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, edit
     <img src="./src/assets/cover.jpg" alt="Capa do projeto">
 </h1>
  
-## :open_book: Sumário
+## :open_book: Sumário 
 
 - [Pré-Visualização](#clapper-pré-visualização)
 - [Aviso](#loudspeaker-aviso)

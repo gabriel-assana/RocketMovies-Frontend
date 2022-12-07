@@ -23,7 +23,7 @@ Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, edit
     <img src="./src/assets/preview-mobile.gif" alt="gif da versão mobile">
 </h1>
 
-<h1 align="center">
+<h1 align="center"> 
     <img src="./src/assets/preview-desktop.gif" alt="gif da versão desktop">
 </h1>
 

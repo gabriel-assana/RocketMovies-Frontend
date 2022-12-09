@@ -5,7 +5,7 @@ Parte visual da aplicação RocketMovies que consiste em armazenar, exibir, edit
 <h1 align="center">
     <img src="./src/assets/cover.jpg" alt="Capa do projeto">
 </h1>
- 
+  
 ## :open_book: Sumário 
 
 - [Pré-Visualização](#clapper-pré-visualização)

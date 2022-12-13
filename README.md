@@ -110,4 +110,4 @@ Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://w
 
 ---
 
-_Esses são os recursos disponíveis nessa Aplicação, se algum recurso não funcionar como o esperado, verifique essa documentação e tente novamente.
+_Esses são os recursos disponíveis nessa Aplicação, se algum recurso não funcionar como o esperado, verifique essa documentação e tente novamente. 
